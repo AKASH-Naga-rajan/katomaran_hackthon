@@ -61,7 +61,8 @@ A cross-platform Todo Task Management mobile application built with **Flutter** 
 
 ## 🧱 Architecture Diagram
 
-![Architecture Diagram](./assets/architecture.png)  
+![Architecture Diagram](<img width="1024" height="1024" alt="Architecture diagram" src="https://github.com/user-attachments/assets/d74f3ec8-5d03-409f-9600-a109193b4618" />
+)  
 *(Add actual image showing: Flutter UI ↔ Hive DB, and Flutter UI ↔ REST API)*
 
 ---
